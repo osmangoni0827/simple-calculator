@@ -7,10 +7,10 @@ body{
     margin: 0 10px;
 }
 .output input{
-    background-color: #686868;
+    background-color: #f7f3f3;
     display: block;
     width: 100%;
-    color: #f8f6f6;
+    color: #080808;
     font-size: 50px;
     text-align: right;
     border: 0;
